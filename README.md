@@ -2,6 +2,7 @@
 
 [![Discord](https://img.shields.io/discord/1341627368581628004?logo=Discord&logoColor=%23ffffff&label=Discord&link=https%3A%2F%2Fdiscord.gg%2FmaMY7QjG)](https://discord.gg/Bzz9hax9Jq)
 [![Hugging Face](https://img.shields.io/badge/🤗%20Hugging%20Face-Echo9Zulu-yellow)](https://huggingface.co/Echo9Zulu)
+[![Ask DeepWiki](https://deepwiki.com/badge.svg)]([https://deepwiki.com/OpenArcBob/OpenArc105])
 
 
 > [!NOTE]
